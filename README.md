@@ -26,3 +26,18 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
 ```
+Ejecutar
+```
+node app.js
+```
+
+## Llamadas
+Para llamar al servicio de Hello World debes invocar.
+```
+http://localhost:4000/
+```
+Para llamar al servicio que responde el JSON de Hello World debes invocar;
+```
+http://localhost:4000/json
+```
+
