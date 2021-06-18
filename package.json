@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "description": "Example NodeJS and Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsandovaltides/nodejs-rest-example.git"
+  },
+  "author": "@hsandovaltides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsandovaltides/nodejs-rest-example/issues"
+  },
+  "homepage": "https://github.com/hsandovaltides/nodejs-rest-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
